@@ -1,0 +1,5 @@
+/.venv
+/index.html
+/webscrape.py
+seleniumchallenge/chromedriver
+seleniumchallenge/__pycache__/seleniumchallenge.cpython-39.pyc
